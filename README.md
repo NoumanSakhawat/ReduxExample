@@ -9,11 +9,17 @@ This is an open source example of redux and navigation using the react-native li
 React Native, Redux, React-Redux, React-Navigation
 
 # Running!
-<br/>
 <copy-button>
 git clone https://github.com/NoumanSakhawat/ReduxExample.git <br/>
+        </copy-button>
+        <copy-button>
 cd ReduxExample <br/>
+    </copy-button>
+    <copy-button>
 npm install or Yarn install <br/>
+    </copy-button>
+    <copy-button>
 npx react-native run-android or npx react-native run-ios <br/> 
     </copy-button>
+
   
